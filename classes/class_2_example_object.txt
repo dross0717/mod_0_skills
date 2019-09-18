@@ -1,0 +1,13 @@
+Object: alineaHostess
+
+Attributes:
+uniformColor (string): 'black'
+yearsExperience (integer): 15
+employeeRole (string): 'hostess'
+makesTips (boolean): F
+
+Methods:
+waitsTable: makesTips = T
+bleachesUniform: uniformColor = 'white'
+getsPromotion: employeeRole = 'manager'
+hasWorkAnniversary: yearsExperience = 16
