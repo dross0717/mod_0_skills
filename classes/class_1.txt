@@ -1,10 +1,10 @@
 Class: Menu
 
 Attributes:
-listsWaffles (boolean): T
-fontUsed (string): arial
-color (string): White
-numberOfItems (integer): 25
+listsWaffles (boolean)
+fontUsed (string)
+color (string)
+numberOfItems (integer)
 
 Methods:
 changeColor (changes color attribute to Beige)
