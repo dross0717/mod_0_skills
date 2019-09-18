@@ -1,0 +1,13 @@
+Class: employees
+
+Attributes:
+uniformColor (string)
+yearsExperience (integer)
+employeeRole (string)
+makesTips (boolean)
+
+Methods:
+waitsTable: changes makesTips to T
+bleachesUniform: changes uniformColor to 'white'
+getsPromotion: changes employeeRole to 'manager'
+hasWorkAnniversary: increases yearsExperience +1
