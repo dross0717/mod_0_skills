@@ -1,0 +1,14 @@
+Object: menuAtDenny's
+
+Attributes:
+
+listsWaffles (boolean): T
+fontUsed (string): 'comic sans'
+color (string): 'white'
+numberOfItems (integer): 60
+
+Methods:
+changeColor: color = 'beige'
+retypeMenu: fontUsed = 'georgia'
+addMenuItems: numberOfItems = 65
+removeBreakfastFoods: listsWaffles = F
